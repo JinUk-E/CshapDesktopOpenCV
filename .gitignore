@@ -3,3 +3,10 @@
 
 # Ada Library Information
 *.ali
+
+
+# idea files
+.idea/
+
+# visual studio files
+.vs/

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ctjXe22bKnLYo4ARCjSZAvR/rzQcIBSeLfUsdMeOt/ml2KxMIJUfRQuT+Fmzy9Ps1qnNQDGkLEEGjrMXcSUufQ==",
+  "success": true,
+  "projectFilePath": "E:\\study\\OpenCV\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jjw68\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\jjw68\\.nuget\\packages\\opencvsharp4\\4.9.0.20240103\\opencvsharp4.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\jjw68\\.nuget\\packages\\opencvsharp4.runtime.win\\4.9.0.20240103\\opencvsharp4.runtime.win.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\jjw68\\.nuget\\packages\\opencvsharp4.windows\\4.9.0.20240103\\opencvsharp4.windows.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\jjw68\\.nuget\\packages\\opencvsharp4.wpfextensions\\4.9.0.20240103\\opencvsharp4.wpfextensions.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\jjw68\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\jjw68\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\jjw68\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
